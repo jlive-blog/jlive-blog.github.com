@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[JLive Blog]]></title>
+  <link href="http://jlive-blog.github.com/atom.xml" rel="self"/>
+  <link href="http://jlive-blog.github.com/"/>
+  <updated>2013-04-01T16:58:26-05:00</updated>
+  <id>http://jlive-blog.github.com/</id>
+  <author>
+    <name><![CDATA[Ranjith]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Java Interview Notes]]></title>
+    <link href="http://jlive-blog.github.com/blog/2013/03/31/java-interview-notes/"/>
+    <updated>2013-03-31T19:00:00-05:00</updated>
+    <id>http://jlive-blog.github.com/blog/2013/03/31/java-interview-notes</id>
+    <content type="html"><![CDATA[<p>Hi this is test content</p>
+]]></content>
+  </entry>
+  
+</feed>
